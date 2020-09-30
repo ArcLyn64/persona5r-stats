@@ -1,0 +1,12 @@
+some personas in the data (Athena, for ex) are missing
+mandrake is a mediterranian plant, placed in the european history cat
+chernobog is a slavic myth
+MS is mesopotamia
+Cu Chulainn is Irish (they would yell at me if I used "UK" to categorize)
+Barong is Indonesian
+AR is arab
+folk tales are categorized under literature, not mythology
+GO is figures from the Goetia (there's a surprising amount)
+I grouped black frost with jack and king frost, even though it's technically atlus original
+HA is haiti
+NM is native american (because NA becomes NaN)
